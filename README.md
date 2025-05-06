@@ -1,6 +1,6 @@
 ## A study of lightnings with focus on elevation
 
-# "Discription"
+Discription
 
 The data consisted of 20 years of observations (1995 - 2015) by the Lightning Imaging Sensor and elevations from
 the 90 m resolution Shuttle Radar Topography Mission for tropics and subtropics. 
@@ -12,7 +12,7 @@ the 90 m resolution Shuttle Radar Topography Mission for tropics and subtropics.
 In agreement with previous works, the present analysis reveals a positive correlation between FRD and elevations at some areas up to a certain height. Moreover, there are indications that there are areas with high FRDs which are not correlated to elevation but rather to large scale atmospheric processes happening in these areas.
 
 
-# "Contents"
+Contents
 - 1a_Lightnings Data  Acquisition & Preprocess.ipynb
 - 1b_Elevation Data Acquisition & Preprocess.ipynb
 - 1c_Slope  Data Acquisition & Preprocess.ipynb
@@ -23,5 +23,5 @@ In agreement with previous works, the present analysis reveals a positive correl
 - 6_Time_Series_Clustering_LRMTS.ipynb
 
 
-"Author": Anastasia Karkatzinou
+Author: Anastasia Karkatzinou
 Contributors: Jennika Hammar, Nikos Kordalis
