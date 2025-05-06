@@ -1,4 +1,4 @@
-## A study of lightnings with focus on elevation
+# A study of lightnings with focus on elevation
 
 Discription
 
@@ -23,5 +23,4 @@ Contents
 - 6_Time_Series_Clustering_LRMTS.ipynb
 
 
-Author: Anastasia Karkatzinou
-Contributors: Jennika Hammar, Nikos Kordalis
+Author: Anastasia Karkatzinou,   Contributors: Jennika Hammar, Nikos Kordalis
